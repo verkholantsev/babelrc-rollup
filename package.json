@@ -1,5 +1,6 @@
 {
   "name": "babelrc-rollup",
+  "version": "4.0.0",
   "description": "Builds a babel configuration for rollup-plugin-babel by reading .babelrc.",
   "main": "dist/babelrc-rollup.js",
   "jsnext:main": "dist/babelrc-rollup.mjs",
